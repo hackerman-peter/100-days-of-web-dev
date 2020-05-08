@@ -1,0 +1,99 @@
+body {
+     margin:0;
+     text-align: center;
+     font-family: 'Merriweather', serif;
+}
+h1 {
+     margin-top: 0;
+     line-height: 1;
+     font-family: 'Sacramento', cursive;
+     color: #66BFBF;
+}
+
+h2 {
+     font-family: 'Montserrat', sans-serif;
+     color: #66BFBF;
+     padding-bottom: 10px;
+     font-weight: bold ! important;
+}
+
+h3 {
+     font-family: 'Montserrat', sans-serif;
+     color: #11999E;
+}
+
+hr {
+     border-style: dotted none none none;
+     width: 7%;
+     border-width: 10px;
+     color: #888888;
+     padding-bottom: 50px; 
+}
+
+
+.profile {
+     margin-top: 70px;
+     margin-bottom: 50px;
+     
+
+}
+.portait {
+     width: 15%;
+}
+
+.top-container {
+     background-color: #EAF6F6;
+}
+
+.name {
+     font-size: 5.625rem;
+     margin: 50px auto 0;
+}
+
+.programmer {
+     font-size: 1.5rem;
+     font-weight: normal;
+}
+
+.pro {
+     text-decoration: underline;
+}
+
+.top-cloud {
+     position: relative;
+     top: 30px;
+     left: 250px;
+}
+
+.bottom-cloud {
+     position: absolute;
+}
+
+.footer-link {
+     color: #11999E;
+}
+
+.skill-row {
+     width: 50%; 
+     margin: 100px auto;
+     text-align: left;
+     line-height: 2;
+}
+
+.skill1-img {
+     width: 25%;
+     margin-right: 30px;
+     float: left;
+}
+
+.skill2-img {
+     width: 15%;
+     float: right;
+     margin-left: 30px;
+}
+
+.bottom-container {
+     padding: 50px 50px;
+     background-color: #66BFBF;
+
+}
