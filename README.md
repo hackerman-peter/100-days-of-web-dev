@@ -1,5 +1,3 @@
-# learning-web-dev
-
 # Project Title
 
 Learning Web Development
