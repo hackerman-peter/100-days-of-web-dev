@@ -4,7 +4,7 @@ Learning and doing simple projects in: HTML, CSS, Bootstrap, JavaScript, DOM Man
 
 ## Authors
 
-* **Peter Liang** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Peter Liang**
 
 
 ### Prerequisites
